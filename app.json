@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "8b590fc5-2886-4bcb-a517-57e6931747b0"
+      }
+    },
+    "android": {
+      "package": "com.zeynepbakirman.denememain"
+    }
+  }
+}
