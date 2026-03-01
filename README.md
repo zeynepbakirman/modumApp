@@ -8,6 +8,7 @@ Uygulamanın tüm özelliklerini, 9 haneli öğrenci no maskeleme mantığını 
 🔗 https://youtu.be/S1FrokJnPFs?si=MaJjZto3E28UV8FZ
 
 ✨ Öne Çıkan Özellikler
+
 Mood Tracker (Duygu Takibi): Kullanıcıların günlük modlarını kaydederek, ruh hallerine göre Samsun sahil yürüyüşü veya kampüs içi aktiviteler gibi yerel tavsiyeler almasını sağlar.
 
 Anonimlik ve Güvenlik: Öğrenci numaralarının son 3 hanesi maskelenerek veri gizliliği sağlanır, güvenli bir kullanıcı deneyimi sunulur.
