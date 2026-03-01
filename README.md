@@ -4,6 +4,7 @@ modumApp, Samsun Üniversitesi öğrencilerinin akademik stres, kişisel esenlik
 
 📺 Uygulama Tanıtım Videosu
 Uygulamanın tüm özelliklerini, 9 haneli öğrenci no maskeleme mantığını ve çalışma performansını aşağıdaki YouTube bağlantısından izleyebilirsiniz:
+
 🔗 https://youtu.be/S1FrokJnPFs?si=MaJjZto3E28UV8FZ
 
 ✨ Öne Çıkan Özellikler
