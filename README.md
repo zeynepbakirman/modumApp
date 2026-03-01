@@ -1,4 +1,5 @@
 modumApp - Öğrenci Esenlik ve Destek Sistemi 🎓
+
 modumApp, Samsun Üniversitesi öğrencilerinin akademik stres, kişisel esenlik ve kampüs güvenliği süreçlerinde yanlarında olan; anonimlik, uzman rehberliği ve yerel destekleri bir araya getiren kapsamlı bir mobil uygulamadır.
 
 📺 Uygulama Tanıtım Videosu
